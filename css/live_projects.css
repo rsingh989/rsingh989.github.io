@@ -840,6 +840,14 @@ body {
   outline: none;
 }
 
+.text-link {
+  color: rgba(0, 66, 62, 1);
+}
+
+.text-link:hover {
+  color: rgba(70, 156, 151, 1);
+}
+
 @media (min-width: 1441px) {
   .section-header {
     border-radius: 6.25rem;
