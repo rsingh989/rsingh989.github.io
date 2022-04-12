@@ -1713,7 +1713,6 @@ body {
 
 .team-title:hover {
   color: rgba(67, 148, 143, 1);
-  cursor: pointer;
 }
 
 .team-description {
