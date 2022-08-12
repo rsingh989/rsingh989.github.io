@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow: /Resources/
+Disallow: /css/
+Disallow: /.idea/
+
+User-agent: *
+Allow: /
+Disallow: /Resources/
+Disallow: /css/
+Disallow: /.idea/
+
+Sitemap: http://www.rrcs.co/sitemap.xml
