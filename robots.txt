@@ -3,4 +3,4 @@ Disallow: /Resources/
 Disallow: /css/
 Disallow: /.idea/
 
-Sitemap: http://www.rrcs.co/sitemap.xml
+Sitemap: https://www.rrcs.co/sitemap.xml
