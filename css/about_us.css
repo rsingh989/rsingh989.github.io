@@ -2010,7 +2010,7 @@ body {
 /* Our CSR Initiatives Section */
 
 .our-csr {
-  background-color: rgba(252, 247, 236, 0.5);
+  /* background-color: rgba(252, 247, 236, 0.5); */
   padding: 5vw 3vw;
   display: flex;
   justify-content: center;
